@@ -1,0 +1,192 @@
+Modello 0
+
+Correct predicted classes: 621
+Incorrect predicted classes: 9379
+Accuracy: 0.0621
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.11      0.03      0.04      1000
+     Trouser       0.00      0.00      0.00      1000
+    Pullover       0.01      0.00      0.00      1000
+       Dress       0.00      0.00      0.00      1000
+        Coat       0.02      0.00      0.00      1000
+      Sandal       0.49      0.09      0.15      1000
+       Shirt       0.05      0.02      0.03      1000
+     Sneaker       0.21      0.01      0.02      1000
+         Bag       0.06      0.48      0.11      1000
+  Ankle boot       0.00      0.00      0.00      1000
+
+    accuracy                           0.06     10000
+   macro avg       0.10      0.06      0.03     10000
+weighted avg       0.10      0.06      0.03     10000
+
+------------------------------------------------------------
+Modello 1
+
+Correct predicted classes: 772
+Incorrect predicted classes: 9228
+Accuracy: 0.0772
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.10      0.04      0.05      1000
+     Trouser       0.00      0.00      0.00      1000
+    Pullover       0.01      0.00      0.00      1000
+       Dress       0.00      0.00      0.00      1000
+        Coat       0.02      0.00      0.00      1000
+      Sandal       0.49      0.19      0.27      1000
+       Shirt       0.06      0.02      0.03      1000
+     Sneaker       0.22      0.07      0.10      1000
+         Bag       0.06      0.46      0.11      1000
+  Ankle boot       0.00      0.00      0.00      1000
+
+    accuracy                           0.08     10000
+   macro avg       0.10      0.08      0.06     10000
+weighted avg       0.10      0.08      0.06     10000
+
+------------------------------------------------------------
+Modello 2
+
+Correct predicted classes: 805
+Incorrect predicted classes: 9195
+Accuracy: 0.0805
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.05      0.02      0.03      1000
+     Trouser       0.00      0.00      0.00      1000
+    Pullover       0.02      0.00      0.00      1000
+       Dress       0.00      0.00      0.00      1000
+        Coat       0.04      0.00      0.00      1000
+      Sandal       0.59      0.26      0.36      1000
+       Shirt       0.03      0.01      0.02      1000
+     Sneaker       0.03      0.01      0.02      1000
+         Bag       0.07      0.50      0.13      1000
+  Ankle boot       0.00      0.00      0.00      1000
+
+    accuracy                           0.08     10000
+   macro avg       0.08      0.08      0.06     10000
+weighted avg       0.08      0.08      0.06     10000
+
+------------------------------------------------------------
+Modello 3
+
+Correct predicted classes: 898
+Incorrect predicted classes: 9102
+Accuracy: 0.0898
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.01      0.01      0.01      1000
+     Trouser       0.00      0.00      0.00      1000
+    Pullover       0.02      0.00      0.00      1000
+       Dress       0.00      0.00      0.00      1000
+        Coat       0.06      0.00      0.00      1000
+      Sandal       0.72      0.35      0.47      1000
+       Shirt       0.06      0.01      0.02      1000
+     Sneaker       0.44      0.01      0.02      1000
+         Bag       0.07      0.51      0.12      1000
+  Ankle boot       0.00      0.00      0.00      1000
+
+    accuracy                           0.09     10000
+   macro avg       0.14      0.09      0.07     10000
+weighted avg       0.14      0.09      0.07     10000
+
+------------------------------------------------------------
+Modello 4
+
+Correct predicted classes: 780
+Incorrect predicted classes: 9220
+Accuracy: 0.078
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.02      0.01      0.01      1000
+     Trouser       0.00      0.00      0.00      1000
+    Pullover       0.02      0.00      0.00      1000
+       Dress       0.00      0.00      0.00      1000
+        Coat       0.06      0.00      0.00      1000
+      Sandal       0.61      0.31      0.41      1000
+       Shirt       0.07      0.02      0.03      1000
+     Sneaker       0.00      0.00      0.00      1000
+         Bag       0.06      0.44      0.11      1000
+  Ankle boot       0.00      0.00      0.00      1000
+
+    accuracy                           0.08     10000
+   macro avg       0.08      0.08      0.06     10000
+weighted avg       0.08      0.08      0.06     10000
+
+------------------------------------------------------------
+Modello 5
+
+Correct predicted classes: 874
+Incorrect predicted classes: 9126
+Accuracy: 0.0874
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.06      0.03      0.04      1000
+     Trouser       0.00      0.00      0.00      1000
+    Pullover       0.02      0.00      0.00      1000
+       Dress       0.00      0.00      0.00      1000
+        Coat       0.02      0.00      0.00      1000
+      Sandal       0.65      0.32      0.43      1000
+       Shirt       0.07      0.02      0.03      1000
+     Sneaker       0.14      0.00      0.00      1000
+         Bag       0.07      0.50      0.13      1000
+  Ankle boot       0.00      0.00      0.00      1000
+
+    accuracy                           0.09     10000
+   macro avg       0.10      0.09      0.06     10000
+weighted avg       0.10      0.09      0.06     10000
+
+------------------------------------------------------------
+Modello 6
+
+Correct predicted classes: 883
+Incorrect predicted classes: 9117
+Accuracy: 0.0883
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.03      0.01      0.01      1000
+     Trouser       0.00      0.00      0.00      1000
+    Pullover       0.03      0.00      0.00      1000
+       Dress       0.00      0.00      0.00      1000
+        Coat       0.03      0.00      0.00      1000
+      Sandal       0.76      0.33      0.46      1000
+       Shirt       0.09      0.02      0.03      1000
+     Sneaker       0.13      0.01      0.01      1000
+         Bag       0.07      0.52      0.12      1000
+  Ankle boot       0.00      0.00      0.00      1000
+
+    accuracy                           0.09     10000
+   macro avg       0.11      0.09      0.06     10000
+weighted avg       0.11      0.09      0.06     10000
+
+------------------------------------------------------------
+Modello 7
+
+Correct predicted classes: 878
+Incorrect predicted classes: 9122
+Accuracy: 0.0878
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.03      0.03      0.03      1000
+     Trouser       0.00      0.00      0.00      1000
+    Pullover       0.00      0.00      0.00      1000
+       Dress       0.00      0.00      0.00      1000
+        Coat       0.04      0.00      0.00      1000
+      Sandal       0.80      0.34      0.48      1000
+       Shirt       0.05      0.02      0.02      1000
+     Sneaker       0.05      0.00      0.00      1000
+         Bag       0.07      0.49      0.13      1000
+  Ankle boot       0.00      0.00      0.00      1000
+
+    accuracy                           0.09     10000
+   macro avg       0.11      0.09      0.07     10000
+weighted avg       0.11      0.09      0.07     10000
+
+------------------------------------------------------------
