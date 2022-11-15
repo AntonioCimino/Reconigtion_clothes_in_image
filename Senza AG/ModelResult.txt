@@ -1,0 +1,312 @@
+Modello 0
+
+Test loss: 0.2673157751560211
+Test accuracy: 0.9027000069618225
+
+Correct predicted classes: 9027
+Incorrect predicted classes: 973
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.86      0.87      0.86      1000
+     Trouser       0.99      0.98      0.99      1000
+    Pullover       0.78      0.91      0.84      1000
+       Dress       0.91      0.91      0.91      1000
+        Coat       0.86      0.80      0.83      1000
+      Sandal       0.99      0.97      0.98      1000
+       Shirt       0.75      0.68      0.71      1000
+     Sneaker       0.94      0.98      0.96      1000
+         Bag       0.98      0.98      0.98      1000
+  Ankle boot       0.97      0.95      0.96      1000
+
+    accuracy                           0.90     10000
+   macro avg       0.90      0.90      0.90     10000
+weighted avg       0.90      0.90      0.90     10000
+
+------------------------------------------------------------
+Modello 1
+
+Test loss: 0.2451205998659134
+Test accuracy: 0.9118000268936157
+
+Correct predicted classes: 9118
+Incorrect predicted classes: 882
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.83      0.90      0.86      1000
+     Trouser       0.98      0.98      0.98      1000
+    Pullover       0.82      0.91      0.86      1000
+       Dress       0.91      0.92      0.91      1000
+        Coat       0.86      0.86      0.86      1000
+      Sandal       0.98      0.98      0.98      1000
+       Shirt       0.80      0.66      0.72      1000
+     Sneaker       0.95      0.98      0.97      1000
+         Bag       0.98      0.98      0.98      1000
+  Ankle boot       0.98      0.95      0.97      1000
+
+    accuracy                           0.91     10000
+   macro avg       0.91      0.91      0.91     10000
+weighted avg       0.91      0.91      0.91     10000
+
+------------------------------------------------------------
+Modello 2
+
+Test loss: 0.2380826473236084
+Test accuracy: 0.9138000011444092
+
+Correct predicted classes: 9138
+Incorrect predicted classes: 862
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.87      0.87      0.87      1000
+     Trouser       1.00      0.98      0.99      1000
+    Pullover       0.86      0.89      0.88      1000
+       Dress       0.91      0.93      0.92      1000
+        Coat       0.85      0.88      0.86      1000
+      Sandal       0.98      0.97      0.98      1000
+       Shirt       0.78      0.71      0.74      1000
+     Sneaker       0.94      0.98      0.96      1000
+         Bag       0.98      0.98      0.98      1000
+  Ankle boot       0.97      0.96      0.97      1000
+
+    accuracy                           0.91     10000
+   macro avg       0.91      0.91      0.91     10000
+weighted avg       0.91      0.91      0.91     10000
+
+------------------------------------------------------------
+Modello 3
+
+Test loss: 0.2467791736125946
+Test accuracy: 0.9101999998092651
+
+Correct predicted classes: 9102
+Incorrect predicted classes: 898
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.82      0.91      0.86      1000
+     Trouser       0.99      0.98      0.99      1000
+    Pullover       0.82      0.90      0.86      1000
+       Dress       0.91      0.93      0.92      1000
+        Coat       0.86      0.85      0.86      1000
+      Sandal       0.99      0.98      0.98      1000
+       Shirt       0.82      0.64      0.72      1000
+     Sneaker       0.96      0.97      0.96      1000
+         Bag       0.97      0.98      0.98      1000
+  Ankle boot       0.96      0.97      0.97      1000
+
+    accuracy                           0.91     10000
+   macro avg       0.91      0.91      0.91     10000
+weighted avg       0.91      0.91      0.91     10000
+
+------------------------------------------------------------
+Modello 4
+
+Test loss: 0.2606468200683594
+Test accuracy: 0.9006999731063843
+
+Correct predicted classes: 9007
+Incorrect predicted classes: 993
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.87      0.81      0.84      1000
+     Trouser       1.00      0.97      0.99      1000
+    Pullover       0.90      0.80      0.85      1000
+       Dress       0.88      0.92      0.90      1000
+        Coat       0.85      0.83      0.84      1000
+      Sandal       0.99      0.97      0.98      1000
+       Shirt       0.65      0.78      0.71      1000
+     Sneaker       0.94      0.98      0.96      1000
+         Bag       0.99      0.97      0.98      1000
+  Ankle boot       0.98      0.95      0.97      1000
+
+    accuracy                           0.90     10000
+   macro avg       0.91      0.90      0.90     10000
+weighted avg       0.91      0.90      0.90     10000
+
+------------------------------------------------------------
+Modello 5
+
+Test loss: 0.2489568144083023
+Test accuracy: 0.9052000045776367
+
+Correct predicted classes: 9052
+Incorrect predicted classes: 948
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.88      0.84      0.86      1000
+     Trouser       0.99      0.98      0.99      1000
+    Pullover       0.86      0.86      0.86      1000
+       Dress       0.90      0.93      0.92      1000
+        Coat       0.87      0.81      0.84      1000
+      Sandal       0.99      0.97      0.98      1000
+       Shirt       0.70      0.76      0.73      1000
+     Sneaker       0.92      0.99      0.96      1000
+         Bag       0.98      0.98      0.98      1000
+  Ankle boot       0.99      0.93      0.96      1000
+
+    accuracy                           0.91     10000
+   macro avg       0.91      0.91      0.91     10000
+weighted avg       0.91      0.91      0.91     10000
+
+------------------------------------------------------------
+Modello 6
+
+Test loss: 0.24470549821853638
+Test accuracy: 0.9108999967575073
+
+Correct predicted classes: 9109
+Incorrect predicted classes: 891
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.85      0.88      0.87      1000
+     Trouser       1.00      0.98      0.99      1000
+    Pullover       0.83      0.91      0.87      1000
+       Dress       0.90      0.94      0.92      1000
+        Coat       0.90      0.79      0.84      1000
+      Sandal       0.99      0.96      0.98      1000
+       Shirt       0.76      0.73      0.74      1000
+     Sneaker       0.93      0.99      0.96      1000
+         Bag       0.97      0.98      0.98      1000
+  Ankle boot       0.98      0.95      0.97      1000
+
+    accuracy                           0.91     10000
+   macro avg       0.91      0.91      0.91     10000
+weighted avg       0.91      0.91      0.91     10000
+
+------------------------------------------------------------
+Modello 7
+
+Test loss: 0.2419172078371048
+Test accuracy: 0.9124000072479248
+
+Correct predicted classes: 9124
+Incorrect predicted classes: 876
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.89      0.84      0.86      1000
+     Trouser       0.99      0.98      0.99      1000
+    Pullover       0.89      0.87      0.88      1000
+       Dress       0.89      0.94      0.91      1000
+        Coat       0.85      0.85      0.85      1000
+      Sandal       0.99      0.97      0.98      1000
+       Shirt       0.73      0.76      0.75      1000
+     Sneaker       0.93      0.99      0.96      1000
+         Bag       0.99      0.98      0.98      1000
+  Ankle boot       0.99      0.94      0.96      1000
+
+    accuracy                           0.91     10000
+   macro avg       0.91      0.91      0.91     10000
+weighted avg       0.91      0.91      0.91     10000
+
+------------------------------------------------------------
+Modello 8
+
+Test loss: 0.2653808891773224
+Test accuracy: 0.902899980545044
+
+Correct predicted classes: 9029
+Incorrect predicted classes: 971
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.83      0.89      0.86      1000
+     Trouser       1.00      0.98      0.99      1000
+    Pullover       0.83      0.87      0.85      1000
+       Dress       0.92      0.90      0.91      1000
+        Coat       0.79      0.91      0.84      1000
+      Sandal       0.99      0.96      0.98      1000
+       Shirt       0.77      0.61      0.68      1000
+     Sneaker       0.93      0.99      0.96      1000
+         Bag       0.98      0.98      0.98      1000
+  Ankle boot       0.97      0.95      0.96      1000
+
+    accuracy                           0.90     10000
+   macro avg       0.90      0.90      0.90     10000
+weighted avg       0.90      0.90      0.90     10000
+
+------------------------------------------------------------
+Modello 9
+
+Test loss: 0.24565540254116058
+Test accuracy: 0.909500002861023
+
+Correct predicted classes: 9095
+Incorrect predicted classes: 905
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.87      0.84      0.86      1000
+     Trouser       0.99      0.98      0.99      1000
+    Pullover       0.86      0.89      0.87      1000
+       Dress       0.90      0.94      0.92      1000
+        Coat       0.88      0.83      0.86      1000
+      Sandal       0.99      0.96      0.98      1000
+       Shirt       0.74      0.74      0.74      1000
+     Sneaker       0.92      0.99      0.95      1000
+         Bag       0.98      0.98      0.98      1000
+  Ankle boot       0.98      0.94      0.96      1000
+
+    accuracy                           0.91     10000
+   macro avg       0.91      0.91      0.91     10000
+weighted avg       0.91      0.91      0.91     10000
+
+------------------------------------------------------------
+Modello 10
+
+Test loss: 0.23416559398174286
+Test accuracy: 0.9142000079154968
+
+Correct predicted classes: 9142
+Incorrect predicted classes: 858
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.90      0.81      0.85      1000
+     Trouser       0.99      0.98      0.99      1000
+    Pullover       0.87      0.87      0.87      1000
+       Dress       0.92      0.92      0.92      1000
+        Coat       0.85      0.89      0.87      1000
+      Sandal       0.99      0.97      0.98      1000
+       Shirt       0.74      0.77      0.75      1000
+     Sneaker       0.94      0.98      0.96      1000
+         Bag       0.98      0.98      0.98      1000
+  Ankle boot       0.98      0.96      0.97      1000
+
+    accuracy                           0.91     10000
+   macro avg       0.92      0.91      0.91     10000
+weighted avg       0.92      0.91      0.91     10000
+
+------------------------------------------------------------
+Modello 11
+
+Test loss: 0.22372505068778992
+Test accuracy: 0.9192000031471252
+
+Correct predicted classes: 9192
+Incorrect predicted classes: 808
+
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.87      0.87      0.87      1000
+     Trouser       0.99      0.98      0.99      1000
+    Pullover       0.90      0.87      0.88      1000
+       Dress       0.92      0.93      0.92      1000
+        Coat       0.87      0.87      0.87      1000
+      Sandal       0.99      0.98      0.98      1000
+       Shirt       0.75      0.77      0.76      1000
+     Sneaker       0.95      0.98      0.96      1000
+         Bag       0.99      0.98      0.99      1000
+  Ankle boot       0.98      0.96      0.97      1000
+
+    accuracy                           0.92     10000
+   macro avg       0.92      0.92      0.92     10000
+weighted avg       0.92      0.92      0.92     10000
+
+------------------------------------------------------------
